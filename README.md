@@ -100,8 +100,8 @@
 | Day 61     | VictoriaLogs explain with hands on demo      |
 
 ## 🔹Python for DevOps 
-| Day        | Topic                                                                             |
-| ---------- | --------------------------------------------------------------------------------- |
+| Day        | Topic                                                                                                          |
+| ---------- | ---------------------------------------------------------------------------------------------- |
 | Day 62     | Python Basics for DevOps & Why we need to know python for devops profession                        |
 | Day 63     | Functions & Modules    |
 | Day 64     | Python Automation & CLI Tools    |
