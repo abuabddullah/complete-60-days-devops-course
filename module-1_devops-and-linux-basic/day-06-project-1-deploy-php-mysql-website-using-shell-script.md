@@ -1,4 +1,5 @@
 ### project 1 : Deploy an E-commerce Website with PHP & MySQL Using Shell Script | Step-by-Step DevOps Project
+### github: https://github.com/rajivsiddiqui/project-7-shell-script.git
 
 ### Deploy a complete php and mysql website by shell script
 ### Install MariaDB
