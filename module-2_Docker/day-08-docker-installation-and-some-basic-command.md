@@ -27,6 +27,18 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo usermod -aG docker ubuntu	
 newgrp docker
 ```
+### Permission Denied solution
+> 1. switch to root user
+>> sudo su
+> 2. check the pathe details 
+>> ll _/var/run/docker.sock_
+> 3. switch to **ubuntu** user
+>> exit
+> 4. add **ubuntu** user to the **docker** group
+>> sudo usermod -aG docker ubuntu
+> 5. switch to new **docker** group
+>> newgrp docker
+
 ### Docker hub account create 
 URL: https://hub.docker.com/
 
