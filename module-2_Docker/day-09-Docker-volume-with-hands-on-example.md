@@ -24,6 +24,9 @@ Verify:
 ```sh
 docker volume ls
 ```
+```sh
+docker volume inspect mydata # to see details
+```
 
 ### 🌐 Step 2: Run Nginx with Volume Mounted
 ```sh
